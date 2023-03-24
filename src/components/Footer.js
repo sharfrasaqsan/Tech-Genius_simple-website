@@ -96,22 +96,22 @@ function Footer() {
                 <p className="footer-title">Follow us on</p>
                 <ul>
                   <li>
-                    <a target="_blank" href="#">
+                    <a target="_blank" href="facebook.com">
                       Faacebook
                     </a>
                   </li>
                   <li>
-                    <a target="_blank" href="#">
+                    <a target="_blank" href="github.com">
                       Github
                     </a>
                   </li>
                   <li>
-                    <a target="_blank" href="h#">
+                    <a target="_blank" href="twitter.com">
                       Twitter
                     </a>
                   </li>
                   <li>
-                    <a target="_blank" href="#">
+                    <a target="_blank" href="linkedin.com">
                       Linkedin
                     </a>
                   </li>
