@@ -97,25 +97,21 @@ function Footer() {
                 <ul>
                   <li>
                     <a target="_blank" rel="noreferrer" href="#">
-                      {" "}
                       Faacebook
                     </a>
                   </li>
                   <li>
                     <a target="_blank" rel="noreferrer" href="#">
-                      {" "}
                       Github
                     </a>
                   </li>
                   <li>
                     <a target="_blank" rel="noreferrer" href="h#">
-                      {" "}
                       Twitter
                     </a>
                   </li>
                   <li>
                     <a target="_blank" rel="noreferrer" href="#">
-                      {" "}
                       Linkedin
                     </a>
                   </li>
